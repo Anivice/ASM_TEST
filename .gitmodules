@@ -1,0 +1,3 @@
+[submodule "ftrace"]
+	path = ftrace
+	url = https://github.com/elfmaster/ftrace
